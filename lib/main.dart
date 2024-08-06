@@ -58,7 +58,8 @@ class _SnakeGameScreenState extends State<SnakeGameScreen> {
     });
   }
 
-  void _loadSounds() async {
+  void _loadSounds() async
+  {
     // Load sound assets here
   }
 
